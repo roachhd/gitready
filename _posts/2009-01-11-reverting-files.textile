@@ -1,6 +1,4 @@
 ---
-published: false
-published: false
 layout: post
 title: mengembalikan file seperti semula
 category: pemula
